@@ -1,38 +1,35 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
+  url: "https://vincenttrivett.com",
+  title: "Vincent Trivett | Full stack web develper and code mentor",
+  subtitle: "Full stack web developer and technology educator",
+  copyright: "",
+  disqusShortname: "",
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: "",
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: "Articles",
+      path: "/"
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: "About me",
+      path: "/pages/about"
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: "Contact me",
+      path: "/pages/contacts"
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: "Vincent Trivett",
+    photo: "/photo.jpg",
+    bio: "Full stack web developer and technology educator",
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: "trivett@gmail.com",
+      twitter: "vincent_trivett",
+      github: "trivett"
     }
   }
 };
