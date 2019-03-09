@@ -3,10 +3,19 @@ title: "About me"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am a full stack developer with a background in journalism and education.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I currently work for [Fabric Technologies](https://meetfabric.com), a life insurance start up in Brooklyn. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+work as a contractor at Google, where I am learning so much and having a lot of fun. I am mostly handling front end development in Angular JS for the Local Guides community.
+
+Before my that, I worked at a small startup called Study Abroad Apartments, where I was the only technical employee for quite some time. I took care of implementing new features and maintaining all aspects of the product. I also had the pleasure of training and mentoring a fresh junior developer.
+
+Prior to that, I had the honor to be a part of 2U, a leading education technology company, for just over two years. At 2U, I got some great experience working with a huge team of top notch developers using Python and PHP, among other things.
+
+Before that, I went through the crucible of General Assembly’s Web Development Immersive program, where I spent three months learning and practicing front and back end web development.
+
+I’ve enjoyed a number of careers before I became a professional web developer. I was a freelance business journalist, a Japanese to English translator, an arts and culture reporter, photographer, and translator in Yokohama while teaching in the city’s public schools, and thats only the non service jobs I’ve worked.
+
+When not in front of a screen, I like to take nice long bike rides, read history, graphic novels, and sometimes both. Please drop me a line to get in touch!
