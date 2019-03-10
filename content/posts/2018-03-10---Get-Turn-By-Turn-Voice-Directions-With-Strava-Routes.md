@@ -10,7 +10,7 @@ tags:
   - "Bikepacking"
   - "Strava"
   - "Android"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "Build bike-friendly routes in Strava and get a friendly voice to guide you through your adventure."
 ---
 
 Last summer I went on a nice 360 mile or so jaunt from Brooklyn to Somerville Mass, just outside of Boston where I got to hang out with my friend Colin and his 1.8 lb. kitten Bao bao. It was gorgeous, most of the ride was rural, totally isolated. I enjoyed the scenery and the audio book that I was able to devour in the two and a half days that the ride took. 
