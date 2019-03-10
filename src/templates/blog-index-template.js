@@ -6,7 +6,7 @@ import Feed from "../components/Feed";
 import Page from "../components/Page";
 import Pagination from "../components/Pagination";
 
-const IndexTemplate = ({ data, pageContext }) => {
+const BlogTemplate = ({ data, pageContext }) => {
   const { title: siteTitle, subtitle: siteSubtitle } = data.site.siteMetadata;
 
   const {
@@ -24,7 +24,7 @@ const IndexTemplate = ({ data, pageContext }) => {
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
-      <Page>
+      <Page title="Blog posts">
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}
@@ -38,7 +38,7 @@ const IndexTemplate = ({ data, pageContext }) => {
 };
 
 export const query = graphql`
-  query IndexTemplate($postsLimit: Int!, $postsOffset: Int!) {
+  query BlogTemplate($postsLimit: Int!, $postsOffset: Int!) {
     site {
       siteMetadata {
         title
@@ -69,4 +69,4 @@ export const query = graphql`
   }
 `;
 
-export default IndexTemplate;
+export default BlogTemplate;

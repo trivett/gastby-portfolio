@@ -21,7 +21,6 @@ const Menu = ({ menu }) => (
           href="https://trello.com/b/uZ3hapB7/books"
           taget="_blank"
           className={styles["menu__list-item-link"]}
-          activeClassName={styles["menu__list-item-link--active"]}
         >
           What I am reading
         </a>

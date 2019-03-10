@@ -5,7 +5,6 @@ import styles from "./Feed.module.scss";
 
 const Feed = ({ edges }) => (
   <div className={styles["feed"]}>
-    <h2>Blog Posts</h2>
     {edges.map(edge => (
       <div className={styles["feed__item"]} key={edge.node.fields.slug}>
         <div className={styles["feed__item-meta"]}>
