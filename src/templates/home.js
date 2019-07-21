@@ -13,7 +13,7 @@ const Home = () => {
       <Page title="Hello!">
         <p>
           I am a full stack web developer, former journalist, and lifelong
-          learner. Currently, I am working with{" "}
+          learner. Currently, I am working at{" "}
           <a href="https://meetfabric.com" target="_blank">
             Fabric Technologies
           </a>
@@ -22,7 +22,7 @@ const Home = () => {
         </p>
         <p>
           In addition to practicing as a technologist, I also mentor graduates
-          and teach beginne web developers at General Assembly. If you are a
+          and teach beginning web developers at General Assembly. If you are a
           graduate of GA or you are interested in starting to learn to code, I
           would love to have you in{" "}
           <a

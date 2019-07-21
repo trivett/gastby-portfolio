@@ -19,7 +19,7 @@ const Menu = ({ menu }) => (
       <li className={styles["menu__list-item"]} key={"trello"}>
         <a
           href="https://trello.com/b/uZ3hapB7/books"
-          taget="_blank"
+          target="_blank"
           className={styles["menu__list-item-link"]}
         >
           What I am reading
