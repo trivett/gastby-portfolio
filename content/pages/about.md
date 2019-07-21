@@ -7,16 +7,24 @@ I am a full stack developer with a background in journalism and education.
 
 ## My professional history
 
-I currently work for [Fabric Technologies](https://meetfabric.com) in Brooklyn. Here, I am learning the joys of web development without managing servers as well as 
+I currently work for [Fabric Technologies](https://meetfabric.com) in Brooklyn. Here, I am learning the joys of back end web development without managing servers and getting my hands dirty with Gatsby and React.
 
-work as a contractor at Google, where I am learning so much and having a lot of fun. I am mostly handling front end development in Angular JS for the Local Guides community.
+Before joining Fabric at the start of 2019, I spent a year and a work as a contractor at Google, mostly for the [Local Guides community](https://maps.google.com/localguides). I also got to work on an interesting internal tool that worked as an interface for creating templates for eloquent natural language to describe places on Google Maps.
 
-Before my that, I worked at a small startup called Study Abroad Apartments, where I was the only technical employee for quite some time. This stage of my career also gave me the pleasure of training and mentoring a junior developer fresh out of a web bootcamp.
+Before my that, I worked at a small startup called Study Abroad Apartments, where I was the first and only technical employee for quite some time. This stage of my career also gave me the pleasure of training and mentoring a junior developer fresh out of a web bootcamp.
 
-Prior to that, I had the honor to be a part of 2U, a leading education technology company, for just over two years. At 2U, I got some great experience working with a huge team of top notch developers using Python and PHP, among other things.
+Prior to that, I had the honor to be a part of 2U, a leading education technology company, for just over two years. 
 
 Before that, I went through the crucible of General Assembly’s Web Development Immersive program, where I spent three months learning and practicing front and back end web development.
 
-I’ve enjoyed a number of careers before I became a professional web developer. I was a freelance business journalist, a Japanese to English translator, an arts and culture reporter, photographer, and translator in Yokohama while teaching in the city’s public schools, and thats only the non service jobs I’ve worked.
+I have enjoyed a number of careers before I became a professional web developer. I was a freelance business journalist, a Japanese to English translator, an arts and culture reporter, photographer, and translator in Yokohama while teaching in the city’s public schools, and thats only the non service jobs I have worked.
 
-When not in front of a screen, I like to take nice long bike rides, read history, graphic novels, and sometimes both. Please drop me a line to get in touch!
+## The remains of my day
+
+I ride my bike a lot. [Follow me on Strava](https://www.strava.com/athletes/2308892)! I'm a fan of nice long rides into the sticks and I plan on posting more field notes from my rides on this blog.
+
+I read a bunch. Nonfiction, dominated by history stuff (not History channel stuff), novels, and graphic novels mostly. I'm also picking up Spanish where I can.
+
+I'm also getting into birding lately. Please drop me a line to get in touch!
+
+In case you want to know how I made this website, it came from [this Gatsby starter](https://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-netlify) by Alexander Shelepenok.
