@@ -16,9 +16,7 @@ const Home = () => {
           learner. Currently, I am working at{" "}
           <a href="https://meetfabric.com" target="_blank">
             Fabric Technologies
-          </a>
-          , where I am learning a lot about serverless architecture, Node.js,
-          Gatsby, React, and Redux.
+          </a>.
         </p>
         <p>
           In addition to practicing as a technologist, I also mentor graduates
