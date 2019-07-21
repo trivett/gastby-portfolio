@@ -2,7 +2,7 @@
 title: Get turn by turn bicycling directions from Strava Routes on Android
 date: "2018-03-10T09:00:00.121Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/strava-android-turn-by-turn-directions/"
 category: "Bikes"
 tags:
@@ -55,7 +55,16 @@ click GPX files, pick the one in your google drive
 
 
 
-Open and click `Get started`. Skip downloading the maps for now. Hit the hamburger menu in the bottom left and tap `Settings`, then `General Settings`. 
+Open and click `Get started`. 
+
+change to shared memory
+
+download your area
+
+skip
+
+
+Skip downloading the maps for now. Hit the hamburger menu in the bottom left and tap `Settings`, then `General Settings`. 
 
 Look for the `Data Storage Folder` option and click that. Click the pencil edit icon and choose `Shared memory`. You will see a prompt to allow Osmand elevated access, hit `Allow`.
 

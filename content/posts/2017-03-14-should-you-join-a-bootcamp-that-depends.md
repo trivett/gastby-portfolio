@@ -2,7 +2,7 @@
 layout: post
 title: Should you join a code bootcamp? Probably, but that depends.
 date: 2017-03-13 19:44:15.000000000 -05:00
-type: post
+template: post
 published: true
 status: publish
 categories:

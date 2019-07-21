@@ -2,8 +2,9 @@
 layout: post
 title: Ignorance is nothing for a programmer to be ashamed of
 date: 2017-03-01 19:44:15.000000000 -05:00
-type: post
-published: true
+template: post
+published: false
+draft: true
 status: publish
 categories:
 - Blog

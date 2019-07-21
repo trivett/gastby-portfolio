@@ -3,7 +3,7 @@ layout: post
 title: Seed your Rails database with FFaker and Factory Girl
 date: 2016-05-09 19:44:15.000000000 -05:00
 template: post
-draft: true
+draft: false
 slug: 'posts/seed-rails-db-with-ffaker-factory-girl'
 categories:
 - Blog
@@ -16,6 +16,8 @@ tags:
 
 description: "Make a production-like development environment in a few minutes."
 ---
+
+
 
 When developing a Ruby on Rails application, it helps to simulate a real production environment. When testing out the layout of a page for instance, you need to see how your views render objects from the database in the browser. Without stuff in the database to render, you can't effectively test that functionality.
 
