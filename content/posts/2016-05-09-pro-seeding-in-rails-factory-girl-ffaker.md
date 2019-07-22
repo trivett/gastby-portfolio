@@ -4,7 +4,7 @@ title: Seed your Rails database with FFaker and Factory Girl
 date: 2016-05-09 19:44:15.000000000 -05:00
 template: post
 draft: false
-slug: 'posts/seed-rails-db-with-ffaker-factory-girl'
+slug: 'seed-rails-db-with-ffaker-factory-girl'
 categories:
 - Blog
 tags:

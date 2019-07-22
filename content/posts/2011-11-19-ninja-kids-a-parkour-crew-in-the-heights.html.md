@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Let Go Of Fear - Parkour in Washington Heights
+title: Let Go Of Fear
 date: 2011-11-19 14:00:15.000000000 -05:00
 template: post
 published: true
+slug: 'washington-heights-parkour'
 status: publish
 categories:
 - Video
 - Web
 tags: []
+description: "Parkour in Washington Heights"
 
 ---
-Rather than sitting at home playing video games, some young people in Washington Heights are learning to do the same acrobatics that video game characters do. Parkour is more than just a sport, it's a way of relating to your environment.
-
 <iframe src="http://player.vimeo.com/video/33923918?title=0&amp;byline=0&amp;portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 Every Monday through Thursday, a group of young people gathers at a spot in idyllic Fort Tryon Park in Washington Heights to learn the art of parkour with their teacher, Vert.
@@ -31,55 +31,6 @@ In many ways, parkour is a sport of the mind. When Vert teaches his students the
 
 Most of the people that come to class are teenagers in the neighborhood, and Vert (neé José Jiminez) is only twenty. More men than women are interested in the sport, but all are certainly welcome. The class is free of charge (though donations are accepted).
 
-Transcript
-
-… Oh, that’s gonna hurt a lot more when you stand up….
-
-1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 .. fuck
-
-The point in your hands by the way, is to balance yourself, that’s why I have them out.  
-So we don’t have to have our arms out?  
-I mean if you have the balance and you can do that, then yeah.  
-Oh my god, I’m sorry, I have a small attention span, but do you see those birds?? The red ones they’re awesome!  
-FOCUS!
-
-Push! Now push up! You got your chest on it.  
-Ah…  
-NO! I’m NOT GIVING UP!
-
-Yeah, Yeah, Yeah…Come on climb up technique, yeah, right there, now push. Push push push, awww…  
-Ah what the fack?  
-Oh, are you alright?
-
-Twist your hand. Exactly .  
-Whooo!  
-Yeah Brian!  
-Very nice.  
-Oh crap, I’m slipping.  
-Finish it!  
-You got it you got it.
-
-This guy, I just met him yesterday. He invited me to his class, and look now.
-
-Let go of fear, let it go. Don’t be afraid.
-
-Fear is a powerful thing! Nobody can get over fear just like that. But with this guy’s help, I think it will be gone in a few weeks, maybe a few days.
-
-See, it’s not that hard.
-
-What the fack, yo? You go under?  
-It’s like washing a plate and hanging your coat on a rack….  
-… What? What are you talking about?  
-…in an expanse of time. Then, out of nowhere, out of nowhere, you know how to do parkour.  
-What?  
-That’s exactly what it is.
-
-Yeah! Yes ! Exactly!  
-You’re like the Karate Kid.  
-I read about that, it’s like the Karate, the Karate Kid movie, the guy has to wash the car, right, in circles. And he’s like why am I doing this? I don’t know, I don’t know why, how this has anything to do with park… uh karate
-
-Parfu!  
-Parkour, kung fu, parfu. Or Kungkour
 
 Vert's profile on NYParkour.com: nyparkour.com/index.php?option=com_content&view=article&id=62:vert&catid=43:nypk-reps&Itemid=54
 
