@@ -26,6 +26,6 @@ The project the impact on the developing world and immigrant communities, improv
 
 The project includes an [animated infographic](http://asmallpercentage.journalism.cuny.edu/remittances-explained/) (see below), [interactive data visualization](http://asmallpercentage.journalism.cuny.edu/what-the-developing-world-loses-to-remittance-prices/), and video to illuminate the story.
 
-<iframe src="http://player.vimeo.com/video/33094733?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/33094733?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 [The Real Price of Sending Money Home](http://vimeo.com/33094733) from [Vincent Trivett](http://vimeo.com/user5092947) on [Vimeo](http://vimeo.com).

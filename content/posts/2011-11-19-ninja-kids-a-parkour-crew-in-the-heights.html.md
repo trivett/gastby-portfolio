@@ -13,7 +13,7 @@ tags: []
 description: "Parkour in Washington Heights"
 
 ---
-<iframe src="http://player.vimeo.com/video/33923918?title=0&amp;byline=0&amp;portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/33923918?title=0&amp;byline=0&amp;portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 Every Monday through Thursday, a group of young people gathers at a spot in idyllic Fort Tryon Park in Washington Heights to learn the art of parkour with their teacher, Vert.
 

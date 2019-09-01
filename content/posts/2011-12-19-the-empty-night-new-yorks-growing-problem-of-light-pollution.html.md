@@ -20,7 +20,7 @@ author:
   last_name: Trivett
 ---
 <p>It goes without saying that New York City is not the ideal place for stargazing. To anyone that's been staring up at the heavens for the past few decades, it is obvious that ugly orange skyglow has been getting worse as the city develops.</p>
-<p><iframe src="http://player.vimeo.com/video/33923449?title=0&amp;byline=0&amp;portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/33923449?title=0&amp;byline=0&amp;portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 <p>We can only imagine what ancient people felt when they looked up to a clear night sky. We know that they revered the heavens and ascribed supernatural importance to the movements the millions of myriad points of celestial light.</p>
 <p>The stars, the planets, the phases of the moon, the event of darkness itself runs deep in our evolutionary and social history. Darkness helped early people schedule harvests and planting. The darkness reminded us that we are at the mercy of nature. The stars reminded us that there is more to the world than just human society. The magnificent band of stars, the Milky Way, showed that there are bigger things out there.</p>
 <p>Today, the night is no longer dark. The brilliance of the night sky is replaced with nothing but a faint orange glow. There is almost nothing that we can see in New York City that is outside of human society. Nothing is beyond our reach.</p>
