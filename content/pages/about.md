@@ -21,10 +21,14 @@ I have enjoyed a number of careers before I became a professional web developer.
 
 ## The remains of my day
 
-I ride my bike a lot. [Follow me on Strava](https://www.strava.com/athletes/2308892)! I'm a fan of nice long rides into the sticks and I plan on posting more field notes from my rides on this blog.
+I ride my bike a lot. ([Follow me on Strava](https://www.strava.com/athletes/2308892))! I like a nice long rides into the sticks and I plan on posting more field notes from my rides on this blog.
 
-I read a bunch. Nonfiction, dominated by history stuff (not History channel stuff), novels, and graphic novels mostly. I'm also picking up Spanish where I can.
+I read a bunch, also picking up Spanish where I can.
 
-I'm also getting into birding lately. Please drop me a line to get in touch!
+I'm also getting into birding lately. 
 
-In case you want to know how I made this website, it came from [this Gatsby starter](https://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-netlify) by Alexander Shelepenok.
+Please drop me a line to get in touch!
+
+---
+
+In case you are wondering, this website was made with [this Gatsby starter](https://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-netlify) by Alexander Shelepenok.
