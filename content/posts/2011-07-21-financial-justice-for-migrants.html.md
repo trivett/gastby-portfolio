@@ -3,6 +3,7 @@ layout: post
 title: The Remittance Economy
 date: 2011-07-21 22:30:12.000000000 -04:00
 template: post
+slug: blog/remittance-economy-city-limits
 published: true
 status: publish
 categories:

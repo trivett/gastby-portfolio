@@ -5,6 +5,7 @@ date: 2010-01-05 23:16:52.000000000 -05:00
 template: post
 published: true
 status: publish
+slug: blog/hosoe-eikoh-photography-interview
 tags:
 - art
 - hosoe eikoh

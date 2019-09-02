@@ -3,6 +3,7 @@ layout: post
 title: "横山剣インタビュー　Yokoyama Ken Interview"
 date: 2009-11-14 00:44:09.000000000 -05:00
 template: post
+slug: blog/yokoyama-ken-interview
 published: true
 status: publish
 tags:

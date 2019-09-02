@@ -3,7 +3,7 @@ title: Get turn by turn bicycling directions from Strava Routes on Android
 date: "2018-03-10T09:00:00.121Z"
 template: "post"
 draft: true
-slug: "/posts/strava-android-turn-by-turn-directions/"
+slug: "/blog/strava-android-turn-by-turn-directions/"
 category: "Bikes"
 tags:
   - "Bike touring"

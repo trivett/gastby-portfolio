@@ -3,7 +3,7 @@ layout: post
 title: Should you join a code bootcamp?
 date: 2017-03-13 19:44:15.000000000 -05:00
 template: post
-slug: 'should-you-join-a-coding-bootcamp'
+slug: 'blog/should-you-join-a-coding-bootcamp'
 status: publish
 
 tags:

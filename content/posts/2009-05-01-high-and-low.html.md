@@ -5,6 +5,7 @@ date: 2009-05-01 23:59:04.000000000 -04:00
 template: post
 published: true
 status: publish
+slug: blog/kurosawa-akira-high-and-low
 categories:
 - Web
 - Writing

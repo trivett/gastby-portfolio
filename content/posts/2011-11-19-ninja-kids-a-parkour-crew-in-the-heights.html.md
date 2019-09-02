@@ -4,7 +4,7 @@ title: Let Go Of Fear
 date: 2011-11-19 14:00:15.000000000 -05:00
 template: post
 published: true
-slug: 'washington-heights-parkour'
+slug: 'blog/washington-heights-parkour'
 status: publish
 categories:
 - Video

@@ -4,6 +4,7 @@ title: Home is Where the Art Is
 date: 2006-02-15 12:37:59.000000000 -05:00
 template: post
 published: true
+slug: blog/filip-noterdaeme-homeless-museum
 status: publish
 categories:
 - Writing
@@ -18,7 +19,7 @@ tags:
 - nyc
 
 ---
-Published in [The L Magazine, February 15, 2006.](http://www.thelmagazine.com/newyork/home-is-where-the-art-is/Content?oid=1135684 "The L Magazine")
+Published in [The L Magazine, February 15, 2006.](https://www.thelmagazine.com/newyork/home-is-where-the-art-is/Content?oid=1135684 "The L Magazine")
 
 As an artist, Filip Noterdaeme is probably better known to the security staff at the Museum of Modern Art than to its curators and patrons. Noterdaeme is the organizer behind a series of quirky protest actions against the 67 percent admission hike that followed the MoMA’s recent renovation. Eyebrows were raised at the November 2004 reopening when Noterdaeme and company paid the 20-dollar charge with pennies, laboriously hauling 12 pounds of copper to dramatize the burden the increased price places on the museum-going public. On the anniversary of the “Penniless at the Modern” shenanigans, he seems to have outdone himself. In the company of his sidekicks, Madame Butterfly and a stuffed coyote named Florence, and wearing a false beard, Noterdaeme set up his MoMA HMLSS exhibit directly in front of the MoMA for a full day. This suitcase-sized museum featured miniatures of all of the MoMA’s most famous exhibits, fur cup and helicopter included. Passersby on 53rd Street were encouraged to visit this museum for free in lieu of its more expensive indoor counterpart.
 
