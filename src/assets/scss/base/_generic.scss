@@ -7,7 +7,7 @@ html {
 
 body {
   margin: 0;
-  font-family: $typographic-font-family;
+  font-family: $paragraph-font-family;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;
   font-size: $typographic-base-font-size;
@@ -23,9 +23,10 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: $typographic-font-family;
-  font-weight: 600;
+h6,
+time {
+  font-family: $header-font-family;
+  font-weight: semi-bold;
 }
 
 h1 {
