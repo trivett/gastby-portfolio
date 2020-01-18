@@ -1,8 +1,9 @@
 ---
 title: Farewell to the NYC Century
-date: "2019-09-09T09:00:00.121Z"
+date: 2019-09-09 19:44:15.000000000 -05:00
 template: "post"
 draft: false
+layout: post
 slug: "/blog/thoughts-on-last-ever-nyc-century"
 tags:
   - "Bikes"
