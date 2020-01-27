@@ -9,9 +9,10 @@ status: publish
 slug: blog/kurosawa-akira-high-and-low
 categories:
 
+tags:
+
 - Web
 - Writing
-  tags:
 - film
 - kurosawa
 - Mifune
