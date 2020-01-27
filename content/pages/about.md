@@ -3,7 +3,9 @@ title: "About me"
 template: "page"
 ---
 
-I am a full stack developer with a background in journalism and education. 
+## [My Resume](/trivett_resume.pdf)
+
+I am a full stack developer with a background in journalism and education.
 
 ## My professional history
 
@@ -13,7 +15,7 @@ Before joining Fabric at the start of 2019, I spent a year and a work as a contr
 
 Before my that, I worked at a small startup called Study Abroad Apartments, where I was the first and only technical employee for quite some time. This stage of my career also gave me the pleasure of training and mentoring a junior developer fresh out of a web bootcamp.
 
-Prior to that, I had the honor to be a part of 2U, a leading education technology company, for just over two years. 
+Prior to that, I had the honor to be a part of 2U, a leading education technology company, for just over two years.
 
 Before that, I went through the crucible of General Assembly’s Web Development Immersive program, where I spent three months learning and practicing front and back end web development.
 
@@ -25,7 +27,7 @@ I ride my bike a lot. ([Follow me on Strava](https://www.strava.com/athletes/230
 
 I read a bunch, also picking up Spanish where I can.
 
-I'm also getting into birding lately. 
+I'm also getting into birding lately.
 
 Please drop me a line to get in touch!
 

@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "天国と地獄　黒澤明 Kurosawa Akira’s High and Low (1963)"
 date: 2009-05-01 23:59:04.000000000 -04:00
@@ -7,9 +8,10 @@ published: true
 status: publish
 slug: blog/kurosawa-akira-high-and-low
 categories:
+
 - Web
 - Writing
-tags:
+  tags:
 - film
 - kurosawa
 - Mifune

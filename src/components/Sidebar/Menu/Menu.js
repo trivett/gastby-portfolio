@@ -16,10 +16,20 @@ const Menu = ({ menu }) => (
           </Link>
         </li>
       ))}
+
       <li className={styles["menu__list-item"]} key={"trello"}>
         <a
-          href="https://trello.com/b/uZ3hapB7/books"
-          target="_blank"
+          href='/trivett_resume.pdf'
+          target='_blank'
+          className={styles["menu__list-item-link"]}
+        >
+          Resume
+        </a>
+      </li>
+      <li className={styles["menu__list-item"]} key={"trello"}>
+        <a
+          href='https://trello.com/b/uZ3hapB7/books'
+          target='_blank'
           className={styles["menu__list-item-link"]}
         >
           What I am reading
